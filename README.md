@@ -29,9 +29,11 @@
 
 ###
 
-<h2>Portfolio</h2>
+<h2>Projetos</h2>
 
 [Personal Finance - Gerenciador financeiro](https://github.com/MarcosFelipe92/PersonalFinance)
+###
+[BookExplorer - Biblioteca virtual](https://github.com/MarcosFelipe92/BookExplorer)
 
 ###
 
